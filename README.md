@@ -17,7 +17,7 @@ Smart contract for a competitive game project focused on depositing the prize to
 - SocketIO
 - Rest api
 
-## How to run
+## How to run 
 1. Install all Requirements for this project.
 2. Clone the project `git clone https://github.com/rapexa/Competitive_game && cd Competitive_game`
 
